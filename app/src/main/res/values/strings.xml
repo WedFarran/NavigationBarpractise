@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation Bar</string>
+    <string name="home_screen">Home screen</string>
+    <string name="my_name">Name</string>
+    <string name="my_email">Email</string>
+    <string name="my_password">Password</string>
+    <string name="my_phone">Phone</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
